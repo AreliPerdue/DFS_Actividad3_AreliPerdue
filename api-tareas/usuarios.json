@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "areli",
+    "password": "<hash bcrypt>"
+  },
+  {
+    "id": 2,
+    "username": "roberto",
+    "password": "<hash bcrypt>"
+  },
+  {
+    "id": 3,
+    "username": "johan",
+    "password": "<hash bcrypt>"
+  },
+  {
+    "id": 4,
+    "username": "ricardo",
+    "password": "<hash bcrypt>"
+  },
+  {
+    "id": 5,
+    "username": "mauricio",
+    "password": "<hash bcrypt>"
+  },
+  {
+    "id": 6,
+    "username": "arelip",
+    "password": "$2b$10$1YM8DzSCiLjhsQa3IYFGaObjDKiQFMsYPYhW2J9GvRDXK1TmDoGvu"
+  },
+  {
+    "id": 7,
+    "username": "sofia",
+    "password": "$2b$10$RUvW6f3TVu3nKy.lyWs0G.ym0BzWFNu9G7jJP.VjnSnUEiw2nuIyu"
+  },
+  {
+    "id": 8,
+    "username": "areliPerdue",
+    "password": "$2b$10$zZ5dfes7CRwcqTfyf7exC.B6kZpINXfY53Jy1ptAHosKS.PS3kLwO"
+  }
+]

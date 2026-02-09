@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar Express.js",
+    "descripcion": "Repasar middleware y rutas"
+  },
+  {
+    "id": 2,
+    "titulo": "Preparar demo",
+    "descripcion": "Grabar video de la API"
+  },
+  {
+    "id": 3,
+    "titulo": "Subir proyecto a GitHub",
+    "descripcion": "Incluir server.js y tareas.json"
+  }
+]
